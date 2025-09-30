@@ -1,0 +1,1 @@
+from .clienteView import ClienteViewSet

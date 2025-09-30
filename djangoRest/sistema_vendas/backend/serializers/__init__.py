@@ -1,0 +1,1 @@
+from .clienteSerializer import ClienteSerializer
